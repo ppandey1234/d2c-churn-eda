@@ -1,6 +1,6 @@
 # Data Quality Report
 
-Generated on: 2026-05-26 22:31:13.324143
+Generated on: 2026-05-29 01:08:17.650326
 
 ## Dataset Summary
 
@@ -16,15 +16,15 @@ Generated on: 2026-05-26 22:31:13.324143
 - skin_type: 401
 
 ### Column Data Types
-- customer_id: object
-- signup_date: object
-- city_tier: object
-- age_group: object
-- acquisition_channel: object
-- loyalty_tier: object
-- preferred_category: object
-- skin_type: object
-- marketing_consent: object
+- customer_id: str
+- signup_date: str
+- city_tier: str
+- age_group: str
+- acquisition_channel: str
+- loyalty_tier: str
+- preferred_category: str
+- skin_type: str
+- marketing_consent: str
 
 ### Invalid Value Checks
 
@@ -43,15 +43,15 @@ Generated on: 2026-05-26 22:31:13.324143
 - skin_type: 401
 
 ### Column Data Types
-- customer_id: object
-- signup_date: object
-- city_tier: object
-- age_group: object
-- acquisition_channel: object
-- loyalty_tier: object
-- preferred_category: object
-- skin_type: object
-- marketing_consent: object
+- customer_id: str
+- signup_date: str
+- city_tier: str
+- age_group: str
+- acquisition_channel: str
+- loyalty_tier: str
+- preferred_category: str
+- skin_type: str
+- marketing_consent: str
 
 ### Invalid Value Checks
 
@@ -70,15 +70,15 @@ Generated on: 2026-05-26 22:31:13.324143
 - skin_type: 401
 
 ### Column Data Types
-- customer_id: object
-- signup_date: object
-- city_tier: object
-- age_group: object
-- acquisition_channel: object
-- loyalty_tier: object
-- preferred_category: object
-- skin_type: object
-- marketing_consent: object
+- customer_id: str
+- signup_date: str
+- city_tier: str
+- age_group: str
+- acquisition_channel: str
+- loyalty_tier: str
+- preferred_category: str
+- skin_type: str
+- marketing_consent: str
 
 ### Invalid Value Checks
 
@@ -97,15 +97,15 @@ Generated on: 2026-05-26 22:31:13.324143
 - skin_type: 401
 
 ### Column Data Types
-- customer_id: object
-- signup_date: object
-- city_tier: object
-- age_group: object
-- acquisition_channel: object
-- loyalty_tier: object
-- preferred_category: object
-- skin_type: object
-- marketing_consent: object
+- customer_id: str
+- signup_date: str
+- city_tier: str
+- age_group: str
+- acquisition_channel: str
+- loyalty_tier: str
+- preferred_category: str
+- skin_type: str
+- marketing_consent: str
 
 ### Invalid Value Checks
 
@@ -124,15 +124,15 @@ Generated on: 2026-05-26 22:31:13.324143
 - skin_type: 401
 
 ### Column Data Types
-- customer_id: object
-- signup_date: object
-- city_tier: object
-- age_group: object
-- acquisition_channel: object
-- loyalty_tier: object
-- preferred_category: object
-- skin_type: object
-- marketing_consent: object
+- customer_id: str
+- signup_date: str
+- city_tier: str
+- age_group: str
+- acquisition_channel: str
+- loyalty_tier: str
+- preferred_category: str
+- skin_type: str
+- marketing_consent: str
 
 ### Invalid Value Checks
 
