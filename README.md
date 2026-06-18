@@ -195,19 +195,37 @@ jupyter notebook eda_audit.ipynb
 
 ---
 
-## Future Enhancements
+## Following up flows and Future Enhancements 
+ 
+ ## Following up integration after EDA analysis
 
-- Churn Prediction Model
-- Customer Segmentation using Clustering
-- Retention Strategy Recommendation Engine
+   - Churn Prediction Model
+   - Customer Segmentation using Clustering
+   - Retention Strategy Recommendation Engine
+
+  ## Future Enhancement
+
 - Automated EDA Dashboard
 - Real-Time Churn Monitoring
 
 ---
 
+## EDA part structure
+  
+## Required notebook/scripts for EDA part
+  
+ - eda_audit.ipynb under d2churn-eda/
+ - charts which are required output for the business analysis generates automated sliced pictures of important analyzed outputs within charts   
+    folder.This can be seen under d2churn-eda/
+ - Other outputs can be obtained under d2churn-eda/outputs folder
+ - .env files are maintained to provide abstraction and safety not to expose absolute paths and relative paths required for      
+    important  tasks like loading/path from which data can be downloaded
+ - Code supports both local file based data loading as well automated download and has been actively tried to check working in     
+    user's virtual environment as well as google collab specifically as an additional check for testing/validation to quickly happen utilizing multi platform support.
+
 ## Author
 
-**Piyush Pandey**
+**Piyush Kant Pandey**
 
 Data Science | Machine Learning | Generative AI
 
